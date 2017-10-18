@@ -1,0 +1,5 @@
+Launch:
+1) bundle install
+2) ruby run.rb
+
+Result save in rails_file.csv
